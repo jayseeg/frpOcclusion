@@ -1,0 +1,2379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"geoco",
+				"geocode1"
+			],
+			[
+				"_handle",
+				"_handleModalShow"
+			],
+			[
+				"com",
+				"componentNode"
+			],
+			[
+				"compon",
+				"componentWillUnmount"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"Modal",
+				"ModalTrigger"
+			],
+			[
+				"Submi",
+				"SubmitterEmailModal"
+			],
+			[
+				"resolv",
+				"resolveStyles"
+			],
+			[
+				"goog",
+				"googleMapsApi"
+			],
+			[
+				"comp",
+				"componentDidMount"
+			],
+			[
+				"gog",
+				"googleMapsApi"
+			],
+			[
+				"watchify",
+				"watchifyCrowdsource"
+			],
+			[
+				"canvas",
+				"canvasProjectionOverlay"
+			],
+			[
+				"cancel",
+				"cancelToggleForm"
+			],
+			[
+				"memberI",
+				"memberIsUser"
+			],
+			[
+				"boxes",
+				"boxesCollection"
+			],
+			[
+				"selected",
+				"selectedAccount"
+			],
+			[
+				"gen",
+				"generateHoopDayTemplate"
+			],
+			[
+				"hoop",
+				"hoopHelpers"
+			],
+			[
+				"selec",
+				"selectedAccount"
+			],
+			[
+				"current",
+				"currentCollection"
+			],
+			[
+				"curre",
+				"currentCollection"
+			],
+			[
+				"acceptEditH",
+				"acceptEditHandler"
+			],
+			[
+				"daysO",
+				"daysOfWeek"
+			],
+			[
+				"javascr",
+				"javascript:void(1"
+			],
+			[
+				"jav",
+				"javascript:void(1"
+			],
+			[
+				"lis",
+				"listenToOnce"
+			],
+			[
+				"listn",
+				"listenTo"
+			],
+			[
+				"suggeste",
+				"suggestedEditModel"
+			],
+			[
+				"confli",
+				"changeConflictBypass"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"days",
+				"daysCollection"
+			],
+			[
+				"newWee",
+				"newWeekdayModel"
+			],
+			[
+				"templateAt",
+				"templateData"
+			],
+			[
+				"sugges",
+				"suggestions"
+			],
+			[
+				"sugge",
+				"suggestionTypes"
+			],
+			[
+				"field",
+				"fieldSuggestions"
+			],
+			[
+				"searchObj",
+				"setupSearchObj"
+			],
+			[
+				"nonMat",
+				"nonMatchingKeysFiltered"
+			],
+			[
+				"cro",
+				"crowdsourceRequests"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"listen",
+				"listenTo"
+			],
+			[
+				"availabl",
+				"availableFilterType"
+			],
+			[
+				"sugg",
+				"suggestedEditModel"
+			],
+			[
+				"USPS",
+				"USPSSuggestedEdits"
+			],
+			[
+				"USP",
+				"USPSSuggestedEdits"
+			],
+			[
+				"reor",
+				"reorderFields"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pill",
+				"pillNavigation"
+			],
+			[
+				"infoWin",
+				"infoWindowAttached"
+			],
+			[
+				"listenOnce",
+				"listenToOnce"
+			],
+			[
+				"crowd",
+				"crowdsource"
+			],
+			[
+				"crowdsoure",
+				"crowdsourceRequest"
+			],
+			[
+				"renderRequested",
+				"renderRequestedEditsIcon"
+			],
+			[
+				"failing",
+				"failingValidationInfo"
+			],
+			[
+				"place",
+				"placeable"
+			],
+			[
+				"failingVali",
+				"failingValidationInfo"
+			],
+			[
+				"failingVal",
+				"failingValidationInfo"
+			],
+			[
+				"Failing",
+				"FailingValidationInfo"
+			],
+			[
+				"equal",
+				"equals_to"
+			],
+			[
+				"recipeFi",
+				"recipeFilterRule"
+			],
+			[
+				"wait",
+				"waitSpinnerWrapper"
+			],
+			[
+				"removeW",
+				"removeWaitSpinner"
+			],
+			[
+				"init",
+				"initialize"
+			],
+			[
+				"requestE",
+				"requestedEditModel"
+			],
+			[
+				"reques",
+				"requestedEditsCollection"
+			],
+			[
+				"reqest",
+				"requestedEditsCollection"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"Reque",
+				"RequestedEditFieldView"
+			],
+			[
+				"requesetd",
+				"requestedEdit"
+			],
+			[
+				"yel",
+				"yellowpagesca"
+			],
+			[
+				"collection",
+				"collectionGroupName"
+			],
+			[
+				"Crow",
+				"CrowdSourceSettingsView"
+			],
+			[
+				"crowdsou",
+				"crowdsourceSettings"
+			],
+			[
+				"additional",
+				"additionalViews"
+			],
+			[
+				"apply",
+				"apply_recipe"
+			],
+			[
+				"remaining",
+				"remainingExports"
+			],
+			[
+				"EventE",
+				"process.EventEmitter();"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"hand",
+				"handleDecimals"
+			],
+			[
+				"failures",
+				"failuresCount"
+			],
+			[
+				"thermom",
+				"thermometerChart"
+			],
+			[
+				"initializeSocketList",
+				"initializeSocketListener"
+			],
+			[
+				"sockets",
+				"socketEvents"
+			],
+			[
+				"grouped",
+				"groupedHeaders"
+			],
+			[
+				"possible",
+				"possibleFields"
+			],
+			[
+				"poss",
+				"possibleFieldsColumnLength"
+			],
+			[
+				"remain",
+				"remainingRichFields"
+			],
+			[
+				"group",
+				"groupHeaders"
+			],
+			[
+				"gru",
+				"groupHeaders"
+			],
+			[
+				"exclu",
+				"excludedTransforms"
+			],
+			[
+				"excl",
+				"excludedTransforms"
+			],
+			[
+				"find",
+				"find_field"
+			],
+			[
+				"delegate",
+				"delegateEvents"
+			],
+			[
+				"render",
+				"renderFieldsAdded"
+			],
+			[
+				"Uplo",
+				"Upload"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"delet",
+				"deleteSuccess"
+			],
+			[
+				"unmapp",
+				"unmappedUserHeaders"
+			],
+			[
+				"generate",
+				"generateMappingHeaders"
+			],
+			[
+				"userFie",
+				"userFields"
+			],
+			[
+				"userFi",
+				"userFieldHeaders"
+			],
+			[
+				"locations",
+				"locationsCollection"
+			],
+			[
+				"deleteFields",
+				"deleteFieldsView"
+			],
+			[
+				"recipe",
+				"recipeIsEnabled"
+			],
+			[
+				"exportRecip",
+				"exportRecipe"
+			],
+			[
+				"user",
+				"userApprovedExportFileAction"
+			],
+			[
+				"synd",
+				"syndicationConfigModel"
+			],
+			[
+				"uniqueL",
+				"uniqueListingsText"
+			],
+			[
+				"uniqu",
+				"uniqueListingsLength"
+			],
+			[
+				"yellow",
+				"yellowpages"
+			],
+			[
+				"now",
+				"nowrap"
+			],
+			[
+				"whit",
+				"white-space"
+			],
+			[
+				"add",
+				"additionalFields"
+			],
+			[
+				"Accoun",
+				"AccountEditView"
+			],
+			[
+				"syndicatoin",
+				"syndicationConfigModel"
+			],
+			[
+				"syndicationConfi",
+				"syndicationConfigModel"
+			],
+			[
+				"exportRecipe",
+				"exportRecipeView"
+			],
+			[
+				"client",
+				"clientRecipe"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"rpl",
+				"replace"
+			],
+			[
+				"serial",
+				"serializeFields"
+			],
+			[
+				"syndicationConf",
+				"syndicationConfigModel"
+			],
+			[
+				"Export",
+				"ExportRecipeView"
+			],
+			[
+				"full",
+				"fullClientRecipeJSON"
+			],
+			[
+				"optionalFie",
+				"optionalFieldMappingLabels"
+			],
+			[
+				"optionalFi",
+				"optionalFieldMapping"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.jsx",
+			"settings":
+			{
+				"buffer_size": 3698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jgibbons/Sites/frpOcclusion/index.html",
+			"settings":
+			{
+				"buffer_size": 359,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 209.0,
+		"last_filter": "javasc",
+		"selected_items":
+		[
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"(jsx",
+				"Set Syntax: JavaScript (JSX)"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"(js",
+				"Set Syntax: JavaScript (JSX)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"pretjs",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prjs",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"repl",
+				"SublimeREPL: Node"
+			],
+			[
+				"prj",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pacarem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakge",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"prejson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jspr",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"pretjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prety",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tab",
+				"AlignTab"
+			],
+			[
+				"jsonpre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jsonpret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"alig",
+				"AlignTab"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsonpr",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jsonp",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"enco",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pacak",
+				"Package Control: Remove Package"
+			],
+			[
+				"packali",
+				"Package Control: List Packages"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"al",
+				"AlignTab"
+			],
+			[
+				"synhtml5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json\\",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"sjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"gitblam",
+				"Git: Blame"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"pr",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"gitbl",
+				"Git: Blame"
+			],
+			[
+				"gblam",
+				"Git: Blame"
+			],
+			[
+				"encodin",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"gibla",
+				"Git: Blame"
+			],
+			[
+				"gibl",
+				"Git: Blame"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"gitb",
+				"Git: Blame"
+			],
+			[
+				"gitbla",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"gitblame",
+				"Git: Blame"
+			],
+			[
+				"train",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"synj",
+				"Set Syntax: JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"synjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"syn",
+				"Set Syntax: JSON"
+			],
+			[
+				"synjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"syjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"synjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"prjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pakcali",
+				"Package Control: List Packages"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"packadd",
+				"Package Control: Add Repository"
+			],
+			[
+				"gi",
+				"Git: Blame"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify"
+			],
+			[
+				"gitdiff",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git",
+				"Git: Diff Tool All"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"a",
+				"AlignTab"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packat",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"alin",
+				"AlignTab"
+			],
+			[
+				"packag",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"min",
+				"Minify::Default File Settings"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"trts",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"pre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"side bar",
+				"Side Bar: Reveal File"
+			],
+			[
+				"side",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"",
+				"AlignTab"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"align	",
+				"AlignTab: Table Mode"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jgibbons/Sites/frpOcclusion",
+		"/Users/jgibbons/Sites/frpOcclusion/js"
+	],
+	"file_history":
+	[
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/makeApp.js",
+		"/Users/jgibbons/Sites/databox-scala/node/node_modules/fluxible-plugin-react-router/index.js",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/account-admin.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/admin.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/components/Map.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/components/FieldsList.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/components/TextField.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/components/HiddenField.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/containers/MainFieldsPage.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/actionTypes.js",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/actions/setGeocode.js",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/stores/locationStore.js",
+		"/Users/jgibbons/Sites/databox-scala/node/grunt/shell.js",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/client.js",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/Html.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/app.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/views/AccountListView.js",
+		"/Users/jgibbons/Sites/databox-scala/node/views/jsTemplates/user_view.html",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/views/AccountsView.js",
+		"/Users/jgibbons/Sites/databox-scala/node/src/routes/databoxRoutes.js",
+		"/Users/jgibbons/Sites/databox-scala/node/src/routes/api/databoxApiRoutes.js",
+		"/Users/jgibbons/Sites/databox-scala/node/views/jsTemplates/user_active_edit_view.html",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/support/steps.rb",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/views/AccountEditView.js",
+		"/Users/jgibbons/Sites/databox-scala/node/views/jsTemplates/account_list_view.html",
+		"/Users/jgibbons/Sites/databox-scala/node/views/old_crowdsource/js/plugins.js",
+		"/Users/jgibbons/Sites/databox-scala/node/views/old_crowdsource/js/main.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/AppRouter.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/marketing.browserify.js",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/components/Nav.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/less/organisms/mapOrganism.less",
+		"/Users/jgibbons/Sites/databox-scala/node/src/routes/crowdsourceRoutes.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/package.json",
+		"/Users/jgibbons/Sites/databox-scala/node/config/logging.json",
+		"/Users/jgibbons/Sites/databox-scala/node/node_modules/radium/lib/prefix.js",
+		"/Users/jgibbons/Sites/databox-scala/node/src/util/logger.js",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/less/molecules/brandMolecule.less",
+		"/Users/jgibbons/Sites/databox-scala/node/api.js",
+		"/Users/jgibbons/Sites/databox-scala/node/test/api/api.test.coffee",
+		"/Users/jgibbons/Sites/databox-scala/node/node_modules/react-google-maps/src/GoogleMaps.js",
+		"/Users/jgibbons/Sites/databox-scala/node/node_modules/react-google-maps/lib/GoogleMaps.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/app.browserify.js",
+		"/Users/jgibbons/Sites/databox-scala/node/node_modules/radium/package.json",
+		"/Users/jgibbons/Sites/databox-scala/node/src/routes/crowdsourceRoutes.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/views/SyndicationExportView.js",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/Application.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/components/Field.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/viewModels/FieldModel.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/img/icon-source/iconography_export-xlsx.svg",
+		"/Users/jgibbons/Sites/databox-scala/node/public/css/iconography.less",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/views/syndicationViews/SyndicationXLSXView.js",
+		"/Users/jgibbons/Sites/databox-scala/node/views/databox/exportHistory.html",
+		"/Users/jgibbons/Sites/databox-scala/node/views/jsTemplates/export.html",
+		"/Users/jgibbons/Sites/databox-scala/node/views/databox/_exportList.html",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/public/js/bundle.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/lib/placeable_components/serializeObject/jquery.serializeObject.js",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/worksheet.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/archive.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/export-xlsx.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/recipes.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/feature-flags.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/suggestion.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/reload.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/public/img/pin-orange-dot.png",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/public/img/pin-orange-dot-trans.png",
+		"/Users/jgibbons/Sites/databox-scala/node/views/old_crowdsource/less/atoms/headerAtom.less",
+		"/Users/jgibbons/Sites/databox-scala/node/views/old_crowdsource/Gruntfile.js",
+		"/Users/jgibbons/Sites/databox-scala/node/grunt/watch.js",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/index.html",
+		"/Users/jgibbons/Sites/databox-scala/node/grunt/less.js",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/public/css/main.css",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/less/main.less",
+		"/Users/jgibbons/Sites/databox-scala/node/grunt/concurrent.js",
+		"/Users/jgibbons/Sites/databox-scala/node/grunt/aliases.json",
+		"/Users/jgibbons/Sites/databox-scala/node/Gruntfile.coffee",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/comparison.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/less/atoms/headerAtom.less",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/less/atoms/headingsAtoms.less",
+		"/Users/jgibbons/Sites/databox-scala/node/views/old_crowdsource/editLocation.html",
+		"/Users/jgibbons/Sites/databox-scala/node/node_modules/bootstrap/Gruntfile.js",
+		"/Users/jgibbons/Sites/databox-scala/node/nginx/databox.dev",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/mainRoutes.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/src/util/renderReactApp.jsx",
+		"/Users/jgibbons/Sites/databox-scala/node/crowdsource/actions/FieldActions.js",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/multi-box-account.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/integration-tests/features/login.feature",
+		"/Users/jgibbons/Sites/databox-scala/node/views/marketing/notSupported.html",
+		"/Users/jgibbons/Sites/databox-scala/node/views/marketing/main.html",
+		"/Users/jgibbons/Sites/databox-scala/node/views/marketing/marketingLayout.html",
+		"/Users/jgibbons/Sites/databox-scala/node/src/routes/marketingRoutes.js",
+		"/Users/jgibbons/Sites/databox-scala/node/src/routes/api/userRoutes.js",
+		"/Users/jgibbons/Sites/databox-scala/node/src/routes/api/accountRoutes.js",
+		"/Users/jgibbons/Sites/databox-scala/node/src/routes/routeSupport.js",
+		"/Users/jgibbons/Sites/databox-scala/node/node_modules/express/lib/response.js",
+		"/Users/jgibbons/Sites/databox-scala/node/src/routes/api/authRoutes.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/AccountsCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/BoxesCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/ComparisonHistoryStatsCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/ComparisonStatsCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/CompetitionCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/ExportRecipesCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/FailingValidationCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/FieldCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/LICollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/LocationsCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/PinCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/PinDataCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/RecipesCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/ThirdPartyCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/UserCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/collections/UserFieldsCollection.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/mixins/organize.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/Account.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/Box.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/Chart.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/ComparisonStats.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/Competition.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/Competitors.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/ExportRecipe.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/FailingValidationInfo.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/LIModel.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/Location.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/Mapping.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/Pin.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/PinDatum.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/Recipe.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/RecipeFilter.js",
+		"/Users/jgibbons/Sites/databox-scala/node/public/js/models/RecipeFilterRule.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/jgibbons/Sites/databox-scala/node/crowdsource",
+			"/Users/jgibbons/Sites/databox-scala/node/node_modules/radium",
+			"/Users/jgibbons/Sites/databox-scala/node/node_modules/radium, -*.browserify.js, -*bundle.js, -*.css, -*.csv, -*.html, -*.log, -*.xls",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*bundle.js, -*.css, -*.csv, -*.html, -*.log, -*.xls",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*bundle.js, -*.css, -*.csv, -*.html, -*.log, -*.xlsx",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*bundle.js, -*.css, -*.csv, -*.html, -*.log",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*bundle.js, -*.css, -*.csv, -*.html",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*bundle.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/src, -*.browserify.js, -*bundle.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/crowdsource, -*.browserify.js, -*bundle.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/crowdsource, -*.browserify.js, -*.bundle.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/crowdsource, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/src, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/src, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/src, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/crowdsource/, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node/public, -*.browserify.js, -*.css, -*.csv,",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/src, -*.browserify.js, -*.css, -*.csv, *.coffee",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv, *.coffee",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv",
+			"<open files>",
+			"/Users/jgibbons/Sites/databox-scala/node/src/, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv",
+			"<open files>",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv",
+			"<open files>",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public/css, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv.",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv., *.feature",
+			"<open files>",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, /Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/src, /Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public, /Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css, -*.csv",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, /Users/jgibbons/Sites/databox-scala/node/src, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/src, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/css, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, *.feature",
+			"/Users/jgibbons/Sites/databox-scala/node/public/less, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/css, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/css, -*.browserify.js, *.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/css, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/css, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js, *.feature",
+			"<open files>",
+			"",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/css, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css",
+			"<open files>",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/css, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/less, -*.browserify.js, -*.css",
+			"<open files>",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/less, -*.browserify.js, -*.css",
+			"/Users/jgibbons/Sites/databox-scala/node/public/less, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/src, -*.browserify.js",
+			"<open files>",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/css, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/integration-tests, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/public/js, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js",
+			"<open files>",
+			"",
+			"/Users/jgibbons/Sites/databox-scala/node/, -*.browserify.js, *.less",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node, -*.browserify.js",
+			"/Users/jgibbons/Sites/databox-scala/node/views, -*.browserify.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"BottomMargin",
+			"element",
+			"getElementById('scrollWindow')",
+			"etElementById('scrollWindow')",
+			"scrollContainer",
+			"\"",
+			",",
+			"testListItem",
+			"liMargin",
+			"liHeight",
+			",",
+			"const",
+			"elementOffsetTop",
+			"scrollingElementOffsetTop",
+			"liTotalHeight",
+			"scrollLocationSets",
+			"getStartIndex",
+			"startLocIndex",
+			";",
+			"buffer",
+			"this.",
+			"var",
+			";",
+			",",
+			"  ",
+			"       \"phone\" : {\n            \"type\" : \"\",",
+			"\"value\" : \"Company Owned\",",
+			"props.",
+			"page.",
+			"'fluxible-plugin-react-router'",
+			"submit",
+			"page.",
+			"submit",
+			"lat",
+			"},",
+			"primary",
+			"ypeof window",
+			"this",
+			"lng",
+			"this.refs",
+			"this.state",
+			"this.refs",
+			"this.state",
+			"this.",
+			", ",
+			"this",
+			"getCenter",
+			"console",
+			"consol",
+			"console",
+			"modal",
+			"i click",
+			"minus",
+			"searchAccounts",
+			"when I enter",
+			"deac",
+			"box",
+			"deleteWarn",
+			"reset",
+			"removeBox",
+			"selected",
+			"selectedAccount",
+			"deactivateAccount",
+			"debugger",
+			"_setGeocodeHandler",
+			"debugger",
+			"center",
+			"state.center",
+			"this.state.center",
+			"state.center",
+			"setLat",
+			"geocode",
+			"newGeocode",
+			"sendSuggestions",
+			"TEXT_FIELD",
+			"setState",
+			"mobileSpinnerOpts",
+			";",
+			"recenterMap",
+			"spinner",
+			";",
+			"worksheet",
+			"comparison",
+			";",
+			"geolocation",
+			"getCurrentPosition",
+			"navigator",
+			"\"",
+			"px",
+			"debugger",
+			"Enhancer",
+			"Radium",
+			"document.",
+			", ",
+			"logger",
+			"error",
+			"winston",
+			"radium",
+			"enhancer",
+			"radium",
+			"Enhancer",
+			"enhancer",
+			"enhance",
+			"enhan",
+			"enhance",
+			"babel",
+			"jsx",
+			"from",
+			"import",
+			"displayStaticPin",
+			"'",
+			"var ",
+			";",
+			",",
+			"exportHistory",
+			"csvex",
+			"str.",
+			"findAccount",
+			"\"",
+			"geocode",
+			"fetchAllUserBoxes",
+			"boxes",
+			"updateMap",
+			"setLatLongCentered",
+			"updateMap",
+			";",
+			"centerStaticPinWrapper",
+			"getCenterPixels"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"let ",
+			"xlsx",
+			"",
+			"appRqr.models('",
+			"appRqr.routes('",
+			"appRqr.models('",
+			"SuggestedEdit",
+			"suggestedEdit",
+			"SuggestedEdit",
+			"",
+			"suggested-edits",
+			"SuggestedEditMapView",
+			"SuggestedEditFieldView",
+			"suggestedEditTemplate",
+			"suggested-edit-",
+			"suggestedEditModel",
+			"editModel",
+			"@buttonOrange",
+			"",
+			"and",
+			"_",
+			"edit_icon waitSpinnerWrapper",
+			"transformation.fields[0] === 'userFields.' + field ?",
+			"requireRoutes('",
+			"requireUtil('util-composable",
+			"requireApi('",
+			"requireUtil('",
+			"requireModels('",
+			"requireRoutes('routeSupport')",
+			"requireRoutes('",
+			"requireApi('",
+			"requireApiStub('",
+			"requireUtil('",
+			"requireRoutes('routeSupport",
+			"requireApi('databoxApiRoutes",
+			"requireRoutes('routeSupport",
+			"requireModels('",
+			"requireApi('",
+			"requireUtil('",
+			"requireRoutes('",
+			"requireModels('",
+			"And the \"1st\" transformations should have the value \"No Changes - Export Only\"",
+			"_",
+			"tabindex=\"1\"",
+			"@liLightBlue",
+			"require('./",
+			"require('./LIModel",
+			"require('../",
+			"require('../LIView",
+			"require('./",
+			"require('./view",
+			"require('./mixin",
+			"require('./collection",
+			"require('./models",
+			"require('./views",
+			"var modernizr = require('modernizr');",
+			"var d3 = require('d3');",
+			"var _s = require('underscore-string');",
+			"var async = require('async');",
+			"var Bootstrap = require('bootstrap');",
+			"var _ = require('lodash');",
+			"var $ = require('jquery');",
+			"var Backbone = require('backbone');",
+			"d3\n",
+			",\n",
+			"",
+			"'placeable/templates",
+			"'placeable/AppRouter",
+			"'placeable/mixins/",
+			"'placeable/viewModels/",
+			"'placeable/models/",
+			"'placeable/collections/",
+			"'placeable/views/",
+			"# should = chai.should()",
+			"//should = chai.should()",
+			"'",
+			"",
+			"exportMappingsSaved",
+			"aFrigginEvent",
+			"window.placeable.trigger",
+			",\n        ",
+			"",
+			",\n	",
+			",\n        ",
+			"requiredFields",
+			",\n        ",
+			".syndicationConfigModel",
+			",\n        ",
+			" ( ",
+			"(",
+			"pinSpread",
+			"completeness",
+			"",
+			",\n    ",
+			"scales",
+			"link",
+			",\n    ",
+			":",
+			"facebook",
+			"bing",
+			"factual",
+			"yelp",
+			"foursquare",
+			"'",
+			",\n                    ",
+			"'",
+			"Pin",
+			"pin",
+			"spreadsheet",
+			"pin",
+			"s-preadsheet",
+			"pin",
+			"dashboard-pin",
+			"ThirdParty",
+			"Third Party ",
+			"ThirdParty",
+			"thirdParty",
+			"third_party_",
+			"r third party",
+			"Third party",
+			"third-party-",
+			"Third Party",
+			"thirdParty",
+			"third party",
+			"turnOnThirdParty",
+			"reload_third_party",
+			"third-party",
+			"dashboard-third-party"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3017,
+								3017
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JSX/JSX-real.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1520.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jgibbons/Sites/frpOcclusion/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 313.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "fprOcclusion.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"crowd",
+				"src/routes/crowdsourceRoutes.jsx"
+			],
+			[
+				"client",
+				"crowdsource/client.js"
+			],
+			[
+				"shell",
+				"grunt/shell.js"
+			],
+			[
+				"accoadm",
+				"integration-tests/features/account-admin.feature"
+			],
+			[
+				"accountad",
+				"integration-tests/features/account-admin.feature"
+			],
+			[
+				"acoulivijs",
+				"public/js/views/AccountListView.js"
+			],
+			[
+				"account",
+				"public/js/views/AccountsView.js"
+			],
+			[
+				"acclisviejs",
+				"public/js/views/AccountListView.js"
+			],
+			[
+				"accounviewjs",
+				"public/js/views/AccountsView.js"
+			],
+			[
+				"steps",
+				"integration-tests/features/support/steps.rb"
+			],
+			[
+				"user_vie",
+				"views/jsTemplates/user_view.html"
+			],
+			[
+				"accountvie",
+				"public/js/views/AccountsView.js"
+			],
+			[
+				"useracti",
+				"views/jsTemplates/user_active_edit_view.html"
+			],
+			[
+				"dataapi",
+				"src/routes/api/databoxApiRoutes.js"
+			],
+			[
+				"databoxrout",
+				"src/routes/databoxRoutes.js"
+			],
+			[
+				"accounlis",
+				"public/js/views/AccountListView.js"
+			],
+			[
+				"accountviejs",
+				"public/js/views/AccountsView.js"
+			],
+			[
+				"accouview",
+				"views/jsTemplates/account_list_view.html"
+			],
+			[
+				"accountedi",
+				"public/js/views/AccountEditView.js"
+			],
+			[
+				"client.js",
+				"crowdsource/client.js"
+			],
+			[
+				"appjs",
+				"app.js"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"logger",
+				"src/util/logger.js"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"crowdrout",
+				"src/routes/crowdsourceRoutes.jsx"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"datarout",
+				"src/routes/databoxRoutes.js"
+			],
+			[
+				"synd",
+				"public/js/views/SyndicationExportView.js"
+			],
+			[
+				"apico",
+				"test/api/api.test.coffee"
+			],
+			[
+				"api",
+				"api.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"dataapirout",
+				"src/routes/api/databoxApiRoutes.js"
+			],
+			[
+				"databrou",
+				"src/routes/databoxRoutes.js"
+			],
+			[
+				"crorout",
+				"src/routes/crowdsourceRoutes.js"
+			],
+			[
+				"crow",
+				"src/routes/crowdsourceRoutes.js"
+			],
+			[
+				"fieldjs",
+				"crowdsource/components/Field.jsx"
+			],
+			[
+				"field",
+				"public/js/viewModels/FieldModel.js"
+			],
+			[
+				"nav",
+				"crowdsource/components/Nav.jsx"
+			],
+			[
+				"serial",
+				"public/lib/placeable_components/serializeObject/jquery.serializeObject.js"
+			],
+			[
+				"work",
+				"integration-tests/features/worksheet.feature"
+			],
+			[
+				"suggestion",
+				"integration-tests/features/suggestion.feature"
+			],
+			[
+				"worksheet",
+				"integration-tests/features/worksheet.feature"
+			],
+			[
+				"icono",
+				"public/css/iconography.less"
+			],
+			[
+				"approut",
+				"public/js/AppRouter.js"
+			],
+			[
+				"databour",
+				"src/routes/databoxRoutes.js"
+			],
+			[
+				"index",
+				"crowdsource/index.html"
+			],
+			[
+				"comparis",
+				"integration-tests/features/comparison.feature"
+			],
+			[
+				"workfeat",
+				"integration-tests/features/worksheet.feature"
+			],
+			[
+				"suggefeat",
+				"integration-tests/features/suggestion.feature"
+			],
+			[
+				"gruntcof",
+				"Gruntfile.coffee"
+			],
+			[
+				"editloc",
+				"views/old_crowdsource/editLocation.html"
+			],
+			[
+				"mapjsx",
+				"crowdsource/components/Map.jsx"
+			],
+			[
+				"crowdsourgruntfile.js",
+				"views/old_crowdsource/Gruntfile.js"
+			],
+			[
+				"gruntfilejs",
+				"node_modules/bootstrap/Gruntfile.js"
+			],
+			[
+				"inde",
+				"crowdsource/index.html"
+			],
+			[
+				"mainroute",
+				"crowdsource/mainRoutes.jsx"
+			],
+			[
+				"log",
+				"integration-tests/features/login.feature"
+			],
+			[
+				"route",
+				"src/routes/routeSupport.js"
+			],
+			[
+				"",
+				"src/routes/routeSupport.js"
+			],
+			[
+				"mark",
+				"src/routes/marketingRoutes.js"
+			],
+			[
+				"marke",
+				"src/routes/marketingRoutes.js"
+			],
+			[
+				"market",
+				"src/routes/marketingRoutes.js"
+			],
+			[
+				"databorout",
+				"src/routes/databoxRoutes.js"
+			],
+			[
+				"marketingroute",
+				"src/routes/marketingRoutes.js"
+			],
+			[
+				"dataapirou",
+				"src/routes/api/databoxApiRoutes.js"
+			],
+			[
+				"databox",
+				"src/routes/databoxRoutes.js"
+			],
+			[
+				"routes",
+				"src/routes/routeSupport.js"
+			],
+			[
+				"acced",
+				"public/js/views/AccountEditView.js"
+			],
+			[
+				"loginfea",
+				"integration-tests/features/login.feature"
+			],
+			[
+				"multfea",
+				"integration-tests/features/multi-box-account.feature"
+			],
+			[
+				"steps.rb",
+				"integration-tests/features/support/steps.rb"
+			],
+			[
+				"dasfeat",
+				"integration-tests/features/dashboard.feature"
+			],
+			[
+				"workshee",
+				"public/js/views/WorksheetView.js"
+			],
+			[
+				"editlocaview",
+				"public/js/views/EditLocationView.js"
+			],
+			[
+				"edititemjs",
+				"public/js/views/EditItemView.js"
+			],
+			[
+				"edititem",
+				"views/jsTemplates/edit_item_view.html"
+			],
+			[
+				"worksheview",
+				"public/js/views/WorksheetView.js"
+			],
+			[
+				"bulkedfe",
+				"integration-tests/features/bulk-edit.feature"
+			],
+			[
+				"reci",
+				"integration-tests/features/recipes.feature"
+			],
+			[
+				"accounad",
+				"integration-tests/features/account-admin.feature"
+			],
+			[
+				"_java",
+				"views/databox/_javascript.html"
+			],
+			[
+				"edimem",
+				"views/jsTemplates/account_edit_member.html"
+			],
+			[
+				"admin",
+				"integration-tests/features/admin.feature"
+			],
+			[
+				"addnememb",
+				"views/jsTemplates/add_new_member.html"
+			],
+			[
+				"add_newh",
+				"views/jsTemplates/add_new_account.html"
+			],
+			[
+				"adminfeat",
+				"integration-tests/features/admin.feature"
+			],
+			[
+				"recifeat",
+				"integration-tests/features/recipes.feature"
+			],
+			[
+				"bulkfeat",
+				"integration-tests/features/bulk-edit.feature"
+			],
+			[
+				"approu",
+				"public/js/AppRouter.js"
+			],
+			[
+				"user_act",
+				"views/jsTemplates/user_active_edit_view.html"
+			],
+			[
+				"edititemvihtml",
+				"views/jsTemplates/edit_item_view.html"
+			],
+			[
+				"data",
+				"src/routes/databoxRoutes.js"
+			],
+			[
+				"layou",
+				"views/databox/layout_wizard.html"
+			],
+			[
+				"layouthtml",
+				"views/databox/layout.html"
+			],
+			[
+				"javascript.html",
+				"views/databox/_javascript.html"
+			],
+			[
+				"datarou",
+				"src/routes/databoxRoutes.js"
+			],
+			[
+				"recfeat",
+				"integration-tests/features/recipes.feature"
+			],
+			[
+				"worfeat",
+				"integration-tests/features/worksheet.feature"
+			],
+			[
+				"accoufea",
+				"integration-tests/features/multi-box-account.feature"
+			],
+			[
+				"accoufeat",
+				"integration-tests/features/account-admin.feature"
+			],
+			[
+				"deact",
+				"views/jsTemplates/deactivate_user_warning.html"
+			],
+			[
+				"bulk-f",
+				"integration-tests/features/bulk-edit.feature"
+			],
+			[
+				"bulk_ed",
+				"views/jsTemplates/bulk_edit.html"
+			],
+			[
+				"bulkedhtml",
+				"views/databox/bulkEdit.html"
+			],
+			[
+				"suggfea",
+				"integration-tests/features/suggestion.feature"
+			],
+			[
+				"sugge",
+				"public/css/suggestions.less"
+			],
+			[
+				"suggles",
+				"public/css/suggestions.less"
+			],
+			[
+				"dbmain",
+				"public/css/db_main.less"
+			],
+			[
+				"locajs",
+				"public/js/models/Location.js"
+			],
+			[
+				"warninfi",
+				"views/jsTemplates/warning_field_view.html"
+			],
+			[
+				"hoopvih",
+				"views/jsTemplates/itemTemplates/hoop_view.html"
+			],
+			[
+				"dbmaincss",
+				"public/css/db_main.css"
+			],
+			[
+				"failinvie",
+				"public/js/views/FailingValidationView.js"
+			],
+			[
+				"env.rb",
+				"integration-tests/features/support/env.rb"
+			],
+			[
+				"sufea",
+				"integration-tests/features/suggestion.feature"
+			],
+			[
+				"step",
+				"integration-tests/features/support/steps.rb"
+			],
+			[
+				"cro_vi",
+				"views/jsTemplates/itemTemplates/crowdsource_view.html"
+			],
+			[
+				"suggfe",
+				"integration-tests/features/suggestion.feature"
+			],
+			[
+				"mainvi",
+				"public/js/views/itemViews/MainFieldsView.js"
+			],
+			[
+				"lofievie",
+				"public/js/views/LocationFieldView.js"
+			],
+			[
+				"mapfiv",
+				"public/js/views/MappedFieldView.js"
+			],
+			[
+				"sumap",
+				"public/js/views/SuggestedEditMapView.js"
+			],
+			[
+				"edititvi",
+				"public/js/views/EditItemView.js"
+			],
+			[
+				"tex",
+				"public/js/views/TextFieldView.js"
+			],
+			[
+				"loca",
+				"public/js/models/Location.js"
+			],
+			[
+				"workshe",
+				"integration-tests/features/worksheet.feature"
+			],
+			[
+				"upla",
+				"public/js/views/UploadView.js"
+			],
+			[
+				"relo",
+				"integration-tests/features/reload.feature"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Google Drive/sublime/databox-node.sublime-project"
+			],
+			[
+				"blame",
+				"~/Google Drive/sublime/databox-all.sublime-project"
+			],
+			[
+				"scal",
+				"~/Google Drive/sublime/scala.placeable.sublime-project"
+			],
+			[
+				"dot",
+				"~/Google Drive/sublime/dotfiles.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 381.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 896.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
