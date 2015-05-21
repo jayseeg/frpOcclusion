@@ -4,7 +4,6 @@ const Rx = require('rx')
 
 
 
-
 // style
 
 const styles = {
@@ -131,18 +130,61 @@ const calcNumberNeeded = () => {
 const scrollObservable = Rx.Observable.fromEvent(windowElement, 'scroll')
 // {,,,,halfSecond,halfSecond,halfSecond,halfSecond,,,,,}
 const everyHalfSecond = Rx.Observable.interval(500)
-// {,,,,[1,2,3,4,...247,248,249,250],[1,2,3,4,...497,498,499,500],,,,}
-const dataObservable = new Rx.Observable.create( dataObserver => {
-  let dataSet = dataList
-  // hack to look like incoming stream data
-  everyHalfSecond.subscribe( second => {
-    dataSet = dataSet.concat(_.range(dataSet.length, dataSet.length + 250))
-    // updated data model
-    dataObserver.onNext(dataSet)
+// {,,,,{name: "props", data:{items: [1,2,3,4,...247,248,249,250]}},{name: "props", data:{items: [1,2,3,4,...497,498,499,500]}},,,,}
+const fromWebSocket = (address, openObserver) => {
+  // https://github.com/Reactive-Extensions/RxJS/issues/112
+  var socket = io(address)
+  // Handle the data
+  var observable = Rx.Observable.create ( obs => {
+    if (openObserver) {
+      socket.on('connect', () => {
+        openObserver.onNext()
+        openObserver.onCompleted()
+      })
+    }
+
+    // Handle messages
+    socket.io.on('packet', (packet) => {
+      if (packet.data) obs.onNext({
+        name: packet.data[0],
+        data: packet.data[1]
+      })
+    })
+    socket.on('error', (err) => obs.onError(err))
+    socket.on('reconnect_error', (err) => obs.onError(err))
+    socket.on('reconnect_failed', () => obs.onError(new Error('reconnection failed')))
+    socket.io.on('close', () => obs.onCompleted())
+
+    // Return way to unsubscribe
+    return () => {
+      console.log('socket closed, but I\'m handling it wrong')
+      socket.close()
+    }
   })
-  // this does nothing right now
-  return () => console.log('dataObservable disposed')
-})
+
+  var observer = Rx.Observer.create( event => {
+    if (socket.connected) {
+      socket.emit(event.name, event.data)
+    }
+  })
+
+  return Rx.Subject.create(observer, observable)
+}
+// not used
+// {,,,,[1,2,3,4,...247,248,249,250],[1,2,3,4,...497,498,499,500],,,,}
+// const dataObservable = new Rx.Observable.create( dataObserver => {
+//   let dataSet = dataList
+//   // hack to look like incoming stream data
+//   everyHalfSecond.subscribe( second => {
+//     dataSet = dataSet.concat(_.range(dataSet.length, dataSet.length + 250))
+//     // updated data model
+//     dataObserver.onNext(dataSet)
+//   })
+//   // this does nothing right now
+//   return () => console.log('dataObservable disposed')
+// })
+
+const socketObservable = fromWebSocket('ws://localhost:7777', Rx.Observer.create( () => {}))
 
 // compose render observable from scrollEvents & dataSets
 /*
@@ -190,7 +232,7 @@ const dataObservable = new Rx.Observable.create( dataObserver => {
 */
 const scrollItemsSets = scrollObservable.concatMap( scrollEvent => {
   // subscribe to dataSet
-  return dataObservable
+  return socketObservable
     .map( dataSet => {
       // transform dataSet & scrollEvent & output a set of props for react to render
       let startIndex = calcStartIndex(scrollEvent.target.scrollTop)
@@ -199,8 +241,8 @@ const scrollItemsSets = scrollObservable.concatMap( scrollEvent => {
         startIndex    : startIndex,
         numberNeeded  : numberNeeded + buffer,
         offsetTop     : calcOffsetTop(startIndex),
-        items         : dataSet.slice(startIndex, ((numberNeeded + buffer) + startIndex)),
-        elementHeight : dataSet.length * totalItemHeight,
+        items         : dataSet.data.items.slice(startIndex, ((numberNeeded + buffer) + startIndex)),
+        elementHeight : dataSet.data.items.length * totalItemHeight,
       }
     })
 })
